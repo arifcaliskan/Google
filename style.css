@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;  
+}
+
+.logo {
+    margin-top: 10%;
+    text-align: center;
+}
+.content {
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+.content>.boxes {
+    width: 100%;
+    margin:auto 5%;
+}
+.topbar {
+    border: #c4c4c4 3px solid;
+    margin: 0 5% ;
+    background-color: #c4c4c4;
+}
+.boxes>p {
+
+    border: 1px rgb(255, 255, 255) solid;
+    float: left;
+    height: 5em;   
+    background-color: aquamarine;
+}
+.rightbox {
+    display:block;
+    margin-top: 17px;
+    float: left;
+    width: 400px;
+    height: 5em;   
+    background-color: aquamarine;   
+}
+.boxes {
+    display: block;
+    align-items:center ;
+    padding: 0;
+    
+}
+.bottombar {
+    margin: 15% 0;
+    padding: 0;
+    display: block;
+    text-align: center;
+}
+.wd200 {
+    width: 20%;
+}
+.wd400 {
+    width: 35%;
+}
+.links {
+    display: block;
+    text-align: center;
+}
